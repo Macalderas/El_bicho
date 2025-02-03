@@ -70,7 +70,7 @@ header {
 
 footer {
     background-color: #1a237e;
-    color: white;
+    color: rgb(8, 8, 8);
     text-align: center;
     padding: 1em;
     position: fixed;
